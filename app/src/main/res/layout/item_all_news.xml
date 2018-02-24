@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/GrayDolphin">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:id="@+id/text_Allnews"
+        android:textColor="@android:color/white"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:text="testing"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:id="@+id/text_AllsubNews"
+        android:textColor="@android:color/white"
+        android:textSize="15sp"
+        android:gravity="center_vertical"
+        android:text="ini adalah contoh biar bisa kita lihat bagaimana jika tulisan tulisan ini menjadi dua baris loh"/>
+
+
+</LinearLayout>

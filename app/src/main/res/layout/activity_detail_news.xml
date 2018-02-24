@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/GunMetal"
+    tools:context="com.example.user.movieproject.DetailNews">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/white"
+        android:textStyle="bold"
+        android:text="ini judul loh"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textSize="25sp"
+        android:id="@+id/txt_judul_detail"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="@android:color/white"
+        android:id="@+id/txt_isi_detail"
+        android:text="ini isi dari news yang ada loh"
+        android:layout_marginRight="10dp"
+        android:textSize="18sp"/>
+
+</LinearLayout>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/GunMetal"
+    tools:context="com.example.user.movieproject.Promosi">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:scaleType="fitXY"
+            android:src="@drawable/promo1"
+            android:id="@+id/foto_promosi"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@android:color/white"
+            android:text="disini untuk judul promosinya"
+            android:layout_marginTop="20dp"
+            android:textStyle="bold"
+            android:textSize="20sp"
+            android:id="@+id/judul_promosi"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="@android:color/white"
+            android:text="nah kalo ini isinya deh terserah apa aja"
+            android:layout_marginTop="10dp"
+            android:textSize="13sp"
+            android:id="@+id/isi_promosi"/>
+    </LinearLayout>
+
+
+</ScrollView>

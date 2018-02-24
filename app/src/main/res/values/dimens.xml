@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="FrameUtama">225dp</dimen>
+    <dimen name="LayoutArrow">60dp</dimen>
+    <dimen name="MarginArrow">7dp</dimen>
+    <dimen name="size_news">25dp</dimen>
+    <dimen name="marginTop_news">10dp</dimen>
+    <dimen name="tinggi_news">131dp</dimen>
+    <dimen name="marginSamping_news">25dp</dimen>
+    <dimen name="text_news">30dp</dimen>
+    <dimen name="margin_text_news">5dp</dimen>
+    <dimen name="height_footer">100dp</dimen>
+    <dimen name="keteranganumumHeight">150dp</dimen>
+    <dimen name="tinggi_subjudul">35dp</dimen>
+    <dimen name="tinggi_allmovie">550dp</dimen>
+    <dimen name="btn_lebar_allmov">150dp</dimen>
+</resources>

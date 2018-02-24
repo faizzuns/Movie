@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cinema XIX</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="morethan">ini adalah contoh biar bisa kita lihat bagaimana jika tulisan tulisan ini menjadi dua baris loh</string>
+    <string name="lessthan">ini adalah contoh biar bisa kita lihat bagaimana jika tulisan tulisan</string>
+</resources>
